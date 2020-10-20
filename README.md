@@ -1,3 +1,2 @@
-# JotForm-BOT
-
-Configurar o "config.json".
+# JotFormBOT
+Discord BOT integrado com o JotForm.

@@ -1,0 +1,9 @@
+{
+  "token": "BOT Token",
+  "guild_id": "ID do servidor",
+  "bot_id": "Client_ID do BOT",
+  "jotform_key": "Chave de API do Jotform",
+  "form_id": "ID do formulário do JotForm",
+  "channelform_forms": "Canal de texto onde o BOT irá enviar os formulários, o nome deve ser 'Formulários: 0'",
+  "channelform_count": "Canal de voz onde o BOT irá fazer a contagem, o nome deve ser 'Formulários: 0'"
+}
